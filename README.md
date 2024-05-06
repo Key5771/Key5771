@@ -17,10 +17,14 @@ Here are some ideas to get you started:
 
 <h3 align="center">Contact</h3>
 <div align="center">
-  <a href="mailto:ksj57715@gmail.com">
-    <img
-      src="https://img.shields.io/badge/ksj57715@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>&nbsp
-  </a>
+  <a href="mailto:ksj57715@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+</div>
+
+<h3 align="center">Skills</h3>
+<div align="center">
+  <img src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Xcode-007ACC?style=for-the-badge&logo=Xcode&logoColor=white"/>
 </div>
 
 <br>
