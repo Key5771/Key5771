@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 <br>
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-16-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-11-blue)
 
 **I'm an Early 🐤** 
 
