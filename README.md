@@ -32,27 +32,6 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning                1114 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   06.48 % 
-🌆 Daytime                5616 commits        ████████░░░░░░░░░░░░░░░░░   32.68 % 
-🌃 Evening                9129 commits        █████████████░░░░░░░░░░░░   53.12 % 
-🌙 Night                  1328 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   07.73 % 
-```
-📅 **I'm Most Productive on Thursday** 
-
-```text
-Monday                   1793 commits        ███░░░░░░░░░░░░░░░░░░░░░░   10.43 % 
-Tuesday                  2380 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.85 % 
-Wednesday                2460 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.31 % 
-Thursday                 4640 commits        ███████░░░░░░░░░░░░░░░░░░   27.00 % 
-Friday                   2234 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.00 % 
-Saturday                 2214 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.88 % 
-Sunday                   1466 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   08.53 % 
-```
-
-
 
 <!--END_SECTION:waka-->
 
