@@ -30,23 +30,23 @@ Here are some ideas to get you started:
 <br>
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
 **I'm a Night 🦉** 
 
 ```text
 🌞 Morning                1114 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   06.37 % 
 🌆 Daytime                5784 commits        ████████░░░░░░░░░░░░░░░░░   33.05 % 
-🌃 Evening                9271 commits        █████████████░░░░░░░░░░░░   52.98 % 
+🌃 Evening                9272 commits        █████████████░░░░░░░░░░░░   52.98 % 
 🌙 Night                  1331 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   07.61 % 
 ```
 📅 **I'm Most Productive on Thursday** 
 
 ```text
 Monday                   1970 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.26 % 
-Tuesday                  2406 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.75 % 
+Tuesday                  2407 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.75 % 
 Wednesday                2466 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.09 % 
-Thursday                 4656 commits        ███████░░░░░░░░░░░░░░░░░░   26.61 % 
+Thursday                 4656 commits        ███████░░░░░░░░░░░░░░░░░░   26.60 % 
 Friday                   2261 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.92 % 
 Saturday                 2242 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.81 % 
 Sunday                   1499 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   08.57 % 
