@@ -35,28 +35,44 @@ Here are some ideas to get you started:
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                1114 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   06.36 % 
-🌆 Daytime                5784 commits        ████████░░░░░░░░░░░░░░░░░   33.04 % 
-🌃 Evening                9275 commits        █████████████░░░░░░░░░░░░   52.99 % 
-🌙 Night                  1331 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   07.60 % 
+🌞 Morning                1114 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   06.34 % 
+🌆 Daytime                5804 commits        ████████░░░░░░░░░░░░░░░░░   33.04 % 
+🌃 Evening                9317 commits        █████████████░░░░░░░░░░░░   53.04 % 
+🌙 Night                  1331 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   07.58 % 
 ```
 📅 **I'm Most Productive on Thursday** 
 
 ```text
-Monday                   1972 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.27 % 
-Tuesday                  2407 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.75 % 
-Wednesday                2466 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.09 % 
-Thursday                 4656 commits        ███████░░░░░░░░░░░░░░░░░░   26.60 % 
-Friday                   2261 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.92 % 
-Saturday                 2242 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.81 % 
-Sunday                   1500 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   08.57 % 
+Monday                   1972 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.23 % 
+Tuesday                  2407 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.70 % 
+Wednesday                2466 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.04 % 
+Thursday                 4670 commits        ███████░░░░░░░░░░░░░░░░░░   26.59 % 
+Friday                   2261 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.87 % 
+Saturday                 2290 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.04 % 
+Sunday                   1500 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   08.54 % 
 ```
 
 
 🤖 **AI Coding This Week** 
 
 ```text
-No AI Coding Activity Tracked This Week
+⏱ AI Coding Time: 1 hr 44 mins (100.0%)
+
+✍️ 1,707 lines written by AI, 0 lines written by hand (100.0% AI-written)
+
+🔤 257,287 Input Tokens, 129,469 Output Tokens
+
+💵 $22.55 Estimated AI Cost This Week
+
+🧠 1 AI Sessions, 22 AI Prompts
+
+Opus                     1,710 lines         █████████████████████████   100.00 % 
+
+🔎 AI Coding Insights:
+🤖 AI-Driven — 100.0% of written lines came from AI
+📚 Verbose Prompter — average 27,717 characters per prompt
+🔁 Iterative Prompter — average 22 prompts per session
+🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
 
