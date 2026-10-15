@@ -58,23 +58,7 @@ Sunday                   1500 commits        ██░░░░░░░░░�
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 1 hr 44 mins (100.0%)
-
-✍️ 1,707 lines written by AI, 0 lines written by hand (100.0% AI-written)
-
-🔤 257,287 Input Tokens, 129,469 Output Tokens
-
-💵 $22.55 Estimated AI Cost This Week
-
-🧠 1 AI Sessions, 22 AI Prompts
-
-Opus                     1,710 lines         █████████████████████████   100.00 % 
-
-🔎 AI Coding Insights:
-🤖 AI-Driven — 100.0% of written lines came from AI
-📚 Verbose Prompter — average 27,717 characters per prompt
-🔁 Iterative Prompter — average 22 prompts per session
-🚀 High AI Trust — 0.0% of changed lines were hand-edited
+No AI Coding Activity Tracked This Week
 ```
 
 
